@@ -10,6 +10,9 @@ return [
 		'en_US' => [
 			'novel',
 		],
+		'ja_JP' => [
+			'小説',
+		],
 	],
 	'txt' => [
 		'zh_CN' => [
@@ -19,6 +22,9 @@ return [
 			'txt',
 		],
 		'en_US' => [
+			'txt',
+		],
+		'ja_JP' => [
 			'txt',
 		],
 	],
@@ -32,6 +38,9 @@ return [
 		'en_US' => [
 			'docx',
 		],
+		'ja_JP' => [
+			'docx',
+		],
 	],
 	'translated' => [
 		'zh_CN' => [
@@ -42,6 +51,9 @@ return [
 		],
 		'en_US' => [
 			'translated',
+		],
+		'ja_JP' => [
+			'翻訳',
 		],
 	],
 	'en' => [
@@ -56,6 +68,9 @@ return [
 		'en_US' => [
 			'en',
 		],
+		'ja_JP' => [
+			'英語',
+		],
 	],
 	'zh' => [
 		'zh_CN' => [
@@ -69,6 +84,9 @@ return [
 		'en_US' => [
 			'zh',
 		],
+		'ja_JP' => [
+			'中国語',
+		],
 	],
 	'zh_cn' => [
 		'zh_CN' => [
@@ -79,6 +97,9 @@ return [
 		],
 		'en_US' => [
 			'zh_cn',
+		],
+		'ja_JP' => [
+			'中国語',
 		],
 	],
 	'zh_tw' => [
@@ -91,8 +112,11 @@ return [
 		'en_US' => [
 			'zh_tw',
 		],
+		'ja_JP' => [
+			'中国語',
+		],
 	],
-	'ja' => [
+	'ja_JP' => [
 		'zh_CN' => [
 			'日语',
 		],
@@ -100,7 +124,10 @@ return [
 			'日語',
 		],
 		'en_US' => [
-			'ja',
+			'ja_JP',
+		],
+		'ja_JP' => [
+			'日本語',
 		],
 	],
 	'ko' => [
@@ -113,6 +140,9 @@ return [
 		'en_US' => [
 			'ko',
 		],
+		'ja_JP' => [
+			'韓国語',
+		],
 	],
 	'Original' => [
 		'zh_CN' => [
@@ -123,6 +153,9 @@ return [
 		],
 		'en_US' => [
 			'Original',
+		],
+		'ja_JP' => [
+			'オリジナル',
 		],
 	],
 	'Doujin' => [
@@ -135,6 +168,9 @@ return [
 		'en_US' => [
 			'Doujin',
 		],
+		'ja_JP' => [
+			'同人',
+		],
 	],
 	'SFW' => [
 		'zh_CN' => [
@@ -146,6 +182,9 @@ return [
 			'適合在工作場所觀看',
 		],
 		'en_US' => [
+			'SFW',
+		],
+		'ja_JP' => [
 			'SFW',
 		],
 	],
@@ -161,6 +200,9 @@ return [
 		'en_US' => [
 			'NSFW',
 		],
+		'ja_JP' => [
+			'NSFW',
+		],
 	],
 	'R18' => [
 		'zh_CN' => [
@@ -172,6 +214,9 @@ return [
 			'限制級',
 		],
 		'en_US' => [
+			'R18',
+		],
+		'ja_JP' => [
 			'R18',
 		],
 	],
@@ -187,6 +232,9 @@ return [
 		'en_US' => [
 			'R18G',
 		],
+		'ja_JP' => [
+			'R18G',
+		],
 	],
 	'Gay' => [
 		'zh_CN' => [
@@ -197,6 +245,24 @@ return [
 		],
 		'en_US' => [
 			'Gay',
+		],
+		'ja_JP' => [
+			'ゲイ',
+			'ゲイ',
+		],
+	],
+	'Bisexual' => [
+		'zh_CN' => [
+			'双性恋',
+		],
+		'zh_TW' => [
+			'雙性戀',
+		],
+		'en_US' => [
+			'Bisexual',
+		],
+		'ja_JP' => [
+			'バイセクス',
 		],
 	],
 	'Lesbian' => [
@@ -211,6 +277,9 @@ return [
 		'en_US' => [
 			'Lesbian',
 		],
+		'ja_JP' => [
+			'レズビアン',
+		],
 	],
 	'General' => [
 		'zh_CN' => [
@@ -223,6 +292,9 @@ return [
 		],
 		'en_US' => [
 			'General',
+		],
+		'ja_JP' => [
+			'一般',
 		],
 	],
 	'Furry' => [
@@ -299,6 +371,9 @@ return [
 		'en_US' => [
 			'Human',
 		],
+		'ja_JP' => [
+			'人間',
+		],
 	],
 	'Robot' => [
 		'zh_CN' => [
@@ -309,6 +384,9 @@ return [
 		],
 		'en_US' => [
 			'Robot',
+		],
+		'ja_JP' => [
+			'ロボット',
 		],
 	],
 	'Slime' => [
@@ -321,6 +399,9 @@ return [
 		'en_US' => [
 			'Slime',
 		],
+		'ja_JP' => [
+			'スライム',
+		],
 	],
 	'Tentacles' => [
 		'zh_CN' => [
@@ -331,6 +412,9 @@ return [
 		],
 		'en_US' => [
 			'Tentacles',
+		],
+		'ja_JP' => [
+			'触手',
 		],
 	],
 	'Vampire' => [
@@ -343,6 +427,9 @@ return [
 		'en_US' => [
 			'Vampire',
 		],
+		'ja_JP' => [
+			'吸血鬼',
+		],
 	],
 	'Hero' => [
 		'zh_CN' => [
@@ -353,6 +440,9 @@ return [
 		],
 		'en_US' => [
 			'Hero',
+		],
+		'ja_JP' => [
+			'英雄',
 		],
 	],
 	'Police' => [
@@ -367,6 +457,9 @@ return [
 		'en_US' => [
 			'Police',
 		],
+		'ja_JP' => [
+			'警察',
+		],
 	],
 	'DevilKing' => [
 		'zh_CN' => [
@@ -377,6 +470,9 @@ return [
 		],
 		'en_US' => [
 			'DevilKing',
+		],
+		'ja_JP' => [
+			'魔王',
 		],
 	],
 	'Brave' => [
@@ -389,6 +485,9 @@ return [
 		'en_US' => [
 			'Brave',
 		],
+		'ja_JP' => [
+			'勇者',
+		],
 	],
 	'Succubus' => [
 		'zh_CN' => [
@@ -399,6 +498,9 @@ return [
 		],
 		'en_US' => [
 			'Succubus',
+		],
+		'ja_JP' => [
+			'サキュバス',
 		],
 	],
 	'VaginalSex' => [
@@ -413,6 +515,9 @@ return [
 		'en_US' => [
 			'VaginalSex',
 		],
+		'ja_JP' => [
+			'膣交',
+		],
 	],
 	'Anal' => [
 		'zh_CN' => [
@@ -425,6 +530,9 @@ return [
 		],
 		'en_US' => [
 			'Anal',
+		],
+		'ja_JP' => [
+			'アナル',
 		],
 	],
 	'69BlowJob' => [
@@ -441,6 +549,9 @@ return [
 			'69',
 			'69 BlowJob',
 		],
+		'ja_JP' => [
+			'フェラチオ',
+		],
 	],
 	'BlowJob' => [
 		'zh_CN' => [
@@ -451,6 +562,9 @@ return [
 		],
 		'en_US' => [
 			'BlowJob',
+		],
+		'ja_JP' => [
+			'フェラチオ',
 		],
 	],
 	'Cloaca' => [
@@ -467,6 +581,9 @@ return [
 		'en_US' => [
 			'Cloaca',
 		],
+		'ja_JP' => [
+			'せいしょくこう',
+		],
 	],
 	'TailJob' => [
 		'zh_CN' => [
@@ -477,6 +594,9 @@ return [
 		],
 		'en_US' => [
 			'TailJob',
+		],
+		'ja_JP' => [
+			'テールジョブ',
 		],
 	],
 	'Masturbation' => [
@@ -489,6 +609,9 @@ return [
 		'en_US' => [
 			'Masturbation',
 		],
+		'ja_JP' => [
+			'オナニー',
+		],
 	],
 	'Fisting' => [
 		'zh_CN' => [
@@ -500,6 +623,9 @@ return [
 		'en_US' => [
 			'Fisting',
 		],
+		'ja_JP' => [
+			'フィスティング',
+		],
 	],
 	'FootJob' => [
 		'zh_CN' => [
@@ -510,6 +636,9 @@ return [
 		],
 		'en_US' => [
 			'FootJob',
+		],
+		'ja_JP' => [
+			'フットジョブ',
 		],
 	],
 	'Paw' => [
@@ -526,6 +655,9 @@ return [
 		'en_US' => [
 			'Paw',
 		],
+		'ja_JP' => [
+			'肉球',
+		],
 	],
 	'SockJob' => [
 		'zh_CN' => [
@@ -539,6 +671,9 @@ return [
 		'en_US' => [
 			'SockJob',
 		],
+		'ja_JP' => [
+			'ソックジョブ',
+		],
 	],
 	'UrethraInsertion' => [
 		'zh_CN' => [
@@ -549,6 +684,9 @@ return [
 		],
 		'en_US' => [
 			'UrethraInsertion',
+		],
+		'ja_JP' => [
+			'尿道挿入',
 		],
 	],
 	'tickling' => [
@@ -563,6 +701,9 @@ return [
 		'en_US' => [
 			'tickling',
 		],
+		'ja_JP' => [
+			'くすぐり',
+		],
 	],
 	'Rape' => [
 		'zh_CN' => [
@@ -576,6 +717,9 @@ return [
 		'en_US' => [
 			'Rape',
 		],
+		'ja_JP' => [
+			'レイプ',
+		],
 	],
 	'Incest' => [
 		'zh_CN' => [
@@ -586,6 +730,9 @@ return [
 		],
 		'en_US' => [
 			'Incest',
+		],
+		'ja_JP' => [
+			'近親相姦',
 		],
 	],
 	'Group' => [
@@ -604,6 +751,9 @@ return [
 			'3p',
 			'np',
 		],
+		'ja_JP' => [
+			'輪姦',
+		],
 	],
 	'Cuckold' => [
 		'zh_CN' => [
@@ -617,6 +767,9 @@ return [
 			'netorare',
 			'ntr',
 		],
+		'ja_JP' => [
+			'寝取られ',
+		],
 	],
 	'Oyakodon' => [
 		'zh_CN' => [
@@ -627,6 +780,9 @@ return [
 		],
 		'en_US' => [
 			'Oyakodon',
+		],
+		'ja_JP' => [
+			'親子丼',
 		],
 	],
 	'brother' => [
@@ -639,6 +795,9 @@ return [
 		'en_US' => [
 			'brother',
 		],
+		'ja_JP' => [
+			'兄弟丼',
+		],
 	],
 	'BDSM' => [
 		'zh_CN' => [
@@ -650,6 +809,9 @@ return [
 		'en_US' => [
 			'BDSM',
 			'SM',
+		],
+		'ja_JP' => [
+			'調教',
 		],
 	],
 	'Bondage' => [
@@ -666,6 +828,9 @@ return [
 		'en_US' => [
 			'Bondage',
 		],
+		'ja_JP' => [
+			'緊縛',
+		],
 	],
 	'ElectricShocks' => [
 		'zh_CN' => [
@@ -676,6 +841,9 @@ return [
 		],
 		'en_US' => [
 			'ElectricShocks',
+		],
+		'ja_JP' => [
+			'電気ショック',
 		],
 	],
 	'MindControl' => [
@@ -694,6 +862,9 @@ return [
 			'BrainWash',
 			'BrainWashing',
 		],
+		'ja_JP' => [
+			'洗脳',
+		],
 	],
 	'Asphyxiation' => [
 		'zh_CN' => [
@@ -709,6 +880,9 @@ return [
 		'en_US' => [
 			'Asphyxiation',
 		],
+		'ja_JP' => [
+			'窒息',
+		],
 	],
 	'OrgasmDenial' => [
 		'zh_CN' => [
@@ -721,6 +895,9 @@ return [
 		],
 		'en_US' => [
 			'OrgasmDenial',
+		],
+		'ja_JP' => [
+			'射精管理',
 		],
 	],
 	'Slave' => [
@@ -737,6 +914,9 @@ return [
 		'en_US' => [
 			'Slave',
 		],
+		'ja_JP' => [
+			'奴隷',
+		],
 	],
 	'CrotchTattoo' => [
 		'zh_CN' => [
@@ -747,6 +927,9 @@ return [
 		],
 		'en_US' => [
 			'CrotchTattoo',
+		],
+		'ja_JP' => [
+			'淫紋',
 		],
 	],
 	'PublicUse' => [
@@ -762,6 +945,9 @@ return [
 			'PublicUse',
 			'Public',
 		],
+		'ja_JP' => [
+			'公衆便器',
+		],
 	],
 	'PissDrinking' => [
 		'zh_CN' => [
@@ -772,6 +958,9 @@ return [
 		],
 		'en_US' => [
 			'PissDrinking',
+		],
+		'ja_JP' => [
+			'聖水',
 		],
 	],
 	'Coprophagia' => [
@@ -784,6 +973,9 @@ return [
 		'en_US' => [
 			'Coprophagia',
 		],
+		'ja_JP' => [
+			'黄金',
+		],
 	],
 	'Forniphilia' => [
 		'zh_CN' => [
@@ -794,6 +986,9 @@ return [
 		],
 		'en_US' => [
 			'Forniphilia',
+		],
+		'ja_JP' => [
+			'家具化',
 		],
 	],
 	'WeightGain' => [
@@ -810,6 +1005,9 @@ return [
 		'en_US' => [
 			'WeightGain',
 		],
+		'ja_JP' => [
+			'肥満化',
+		],
 	],
 	'BattleDamage' => [
 		'zh_CN' => [
@@ -825,6 +1023,9 @@ return [
 		'en_US' => [
 			'BattleDamage',
 		],
+		'ja_JP' => [
+			'戦闘損傷',
+		],
 	],
 	'BodyModification' => [
 		'zh_CN' => [
@@ -835,6 +1036,9 @@ return [
 		],
 		'en_US' => [
 			'BodyModification',
+		],
+		'ja_JP' => [
+			'身体改造',
 		],
 	],
 	'Transfur Furry' => [
@@ -851,6 +1055,9 @@ return [
 			'Transfur',
 			'TF',
 		],
+		'ja_JP' => [
+			'変身',
+		],
 	],
 	'Transfur Dragon' => [
 		'zh_CN' => [
@@ -862,6 +1069,9 @@ return [
 		'en_US' => [
 			'Transfur Dragon',
 		],
+		'ja_JP' => [
+			'ドラゴン化',
+		],
 	],
 	'Petrification' => [
 		'zh_CN' => [
@@ -872,6 +1082,9 @@ return [
 		],
 		'en_US' => [
 			'Petrification',
+		],
+		'ja_JP' => [
+			'石化',
 		],
 	],
 	'corruption' => [
@@ -886,6 +1099,9 @@ return [
 		'en_US' => [
 			'corruption',
 		],
+		'ja_JP' => [
+			'堕落',
+		],
 	],
 	'corruption hero' => [
 		'zh_CN' => [
@@ -896,6 +1112,9 @@ return [
 		],
 		'en_US' => [
 			'corruption hero',
+		],
+		'ja_JP' => [
+			'英雄堕落',
 		],
 	],
 	'Hypnosis' => [
@@ -908,6 +1127,9 @@ return [
 		'en_US' => [
 			'Hypnosis',
 		],
+		'ja_JP' => [
+			'催眠',
+		],
 	],
 	'Smell' => [
 		'zh_CN' => [
@@ -918,6 +1140,9 @@ return [
 		],
 		'en_US' => [
 			'Smell',
+		],
+		'ja_JP' => [
+			'臭い',
 		],
 	],
 	'Drugs' => [
@@ -1002,6 +1227,9 @@ return [
 		'en_US' => [
 			'Rubber',
 		],
+		'ja_JP' => [
+			'ラバー',
+		],
 	],
 	'Armor' => [
 		'zh_CN' => [
@@ -1015,6 +1243,9 @@ return [
 		'en_US' => [
 			'Armor',
 		],
+		'ja_JP' => [
+			'アーマー',
+		],
 	],
 	'PowerArmor' => [
 		'zh_CN' => [
@@ -1025,6 +1256,9 @@ return [
 		],
 		'en_US' => [
 			'PowerArmor',
+		],
+		'ja_JP' => [
+			'パワーアーマー',
 		],
 	],
 	'Socks' => [
@@ -1039,6 +1273,9 @@ return [
 		'en_US' => [
 			'Socks',
 		],
+		'ja_JP' => [
+			'靴下',
+		],
 	],
 	'Muscles' => [
 		'zh_CN' => [
@@ -1052,6 +1289,9 @@ return [
 		'en_US' => [
 			'Muscles',
 		],
+		'ja_JP' => [
+			'筋肉',
+		],
 	],
 	'Hyper' => [
 		'zh_CN' => [
@@ -1063,6 +1303,9 @@ return [
 		'en_US' => [
 			'Hyper',
 		],
+		'ja_JP' => [
+			'巨根',
+		],
 	],
 	'Macro' => [
 		'zh_CN' => [
@@ -1073,6 +1316,9 @@ return [
 		],
 		'en_US' => [
 			'Macro',
+		],
+		'ja_JP' => [
+			'巨大化',
 		],
 	],
 	'SizeDifferent' => [
@@ -1087,6 +1333,9 @@ return [
 		'en_US' => [
 			'SizeDifferent',
 		],
+		'ja_JP' => [
+			'体格差',
+		],
 	],
 	'Vore' => [
 		'zh_CN' => [
@@ -1100,6 +1349,9 @@ return [
 		'en_US' => [
 			'Vore',
 		],
+		'ja_JP' => [
+			'ボア',
+		],
 	],
 	'CockVore' => [
 		'zh_CN' => [
@@ -1109,6 +1361,9 @@ return [
 			'CockVore',
 		],
 		'en_US' => [
+			'CockVore',
+		],
+		'ja_JP' => [
 			'CockVore',
 		],
 	],
@@ -1133,6 +1388,9 @@ return [
 		'en_US' => [
 			'TailVore',
 		],
+		'ja_JP' => [
+			'テールボア',
+		],
 	],
 	'Eggs' => [
 		'zh_CN' => [
@@ -1145,6 +1403,9 @@ return [
 		],
 		'en_US' => [
 			'Eggs',
+		],
+		'ja_JP' => [
+			'卵',
 		],
 	],
 	'MaleBirth' => [
@@ -1159,6 +1420,9 @@ return [
 		'en_US' => [
 			'MaleBirth',
 		],
+		'ja_JP' => [
+			'男性出産',
+		],
 	],
 	'Inflation' => [
 		'zh_CN' => [
@@ -1169,6 +1433,9 @@ return [
 		],
 		'en_US' => [
 			'Inflation',
+		],
+		'ja_JP' => [
+			'膨張',
 		],
 	],
 	'GutTorture' => [
@@ -1181,6 +1448,9 @@ return [
 		'en_US' => [
 			'GutTorture',
 		],
+		'ja_JP' => [
+			'腹部拷問',
+		],
 	],
 	'R18G CBT' => [
 		'zh_CN' => [
@@ -1191,6 +1461,9 @@ return [
 		],
 		'en_US' => [
 			'R18G CBT',
+		],
+		'ja_JP' => [
+			'CBT',
 		],
 	],
 	'R18G Blood' => [
@@ -1203,6 +1476,9 @@ return [
 		'en_US' => [
 			'R18G Blood',
 		],
+		'ja_JP' => [
+			'流血',
+		],
 	],
 	'R18G Mutilation' => [
 		'zh_CN' => [
@@ -1213,6 +1489,9 @@ return [
 		],
 		'en_US' => [
 			'R18G Mutilation',
+		],
+		'ja_JP' => [
+			'切断',
 		],
 	],
 	'R18G Castrated' => [
@@ -1225,6 +1504,9 @@ return [
 		'en_US' => [
 			'R18G Castrated',
 		],
+		'ja_JP' => [
+			'去勢',
+		],
 	],
 	'AI Generated' => [
 		'zh_CN' => [
@@ -1235,6 +1517,9 @@ return [
 		],
 		'en_US' => [
 			'AI Generated',
+		],
+		'ja_JP' => [
+			'AI生成',
 		],
 	],
 ];

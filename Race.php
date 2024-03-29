@@ -10,6 +10,9 @@ return [
 		'en_US' => [
 			'bear',
 		],
+		'ja_JP' => [
+			'熊',
+		],
 	],
 	'panda' => [
 		'zh_CN' => [
@@ -20,6 +23,9 @@ return [
 		],
 		'en_US' => [
 			'panda',
+		],
+		'ja_JP' => [
+			'パンダ',
 		],
 	],
 	'cat' => [
@@ -34,6 +40,9 @@ return [
 		'en_US' => [
 			'cat',
 		],
+		'ja_JP' => [
+			'猫',
+		],
 	],
 	'lion' => [
 		'zh_CN' => [
@@ -46,6 +55,9 @@ return [
 		],
 		'en_US' => [
 			'lion',
+		],
+		'ja_JP' => [
+			'ライオン',
 		],
 	],
 	'tiger' => [
@@ -60,6 +72,9 @@ return [
 		'en_US' => [
 			'tiger',
 		],
+		'ja_JP' => [
+			'虎',
+		],
 	],
 	'dragon' => [
 		'zh_CN' => [
@@ -73,6 +88,9 @@ return [
 		'en_US' => [
 			'dragon',
 		],
+		'ja_JP' => [
+			'ドラゴン',
+		],
 	],
 	'lizard' => [
 		'zh_CN' => [
@@ -83,6 +101,9 @@ return [
 		],
 		'en_US' => [
 			'lizard',
+		],
+		'ja_JP' => [
+			'トカゲ',
 		],
 	],
 	'dog' => [
@@ -95,6 +116,9 @@ return [
 		'en_US' => [
 			'dog',
 		],
+		'ja_JP' => [
+			'犬',
+		],
 	],
 	'wolf' => [
 		'zh_CN' => [
@@ -105,6 +129,9 @@ return [
 		],
 		'en_US' => [
 			'wolf',
+		],
+		'ja_JP' => [
+			'狼',
 		],
 	],
 	'fox' => [
@@ -119,6 +146,9 @@ return [
 		'en_US' => [
 			'fox',
 		],
+		'ja_JP' => [
+			'キツネ',
+		],
 	],
 	'sergal' => [
 		'zh_CN' => [
@@ -129,6 +159,9 @@ return [
 		],
 		'en_US' => [
 			'sergal',
+		],
+		'ja_JP' => [
+			'サーガル',
 		],
 	],
 	'elephant' => [
@@ -143,6 +176,9 @@ return [
 		'en_US' => [
 			'elephant',
 		],
+		'ja_JP' => [
+			'象',
+		],
 	],
 	'mouse' => [
 		'zh_CN' => [
@@ -156,6 +192,9 @@ return [
 		'en_US' => [
 			'mouse',
 		],
+		'ja_JP' => [
+			'ネズミ',
+		],
 	],
 	'kangaroo' => [
 		'zh_CN' => [
@@ -166,6 +205,9 @@ return [
 		],
 		'en_US' => [
 			'kangaroo',
+		],
+		'ja_JP' => [
+			'カンガルー',
 		],
 	],
 	'monkey' => [
@@ -178,6 +220,9 @@ return [
 		'en_US' => [
 			'monkey',
 		],
+		'ja_JP' => [
+			'猿',
+		],
 	],
 	'panther' => [
 		'zh_CN' => [
@@ -189,6 +234,9 @@ return [
 		'en_US' => [
 			'panther',
 		],
+		'ja_JP' => [
+			'パンサー',
+		],
 	],
 	'pig' => [
 		'zh_CN' => [
@@ -199,6 +247,9 @@ return [
 		],
 		'en_US' => [
 			'pig',
+		],
+		'ja_JP' => [
+			'豚',
 		],
 	],
 	'rabbit' => [
@@ -213,6 +264,9 @@ return [
 		'en_US' => [
 			'rabbit',
 		],
+		'ja_JP' => [
+			'ウサギ',
+		],
 	],
 	'snake' => [
 		'zh_CN' => [
@@ -223,6 +277,9 @@ return [
 		],
 		'en_US' => [
 			'snake',
+		],
+		'ja_JP' => [
+			'蛇',
 		],
 	],
 	'turtle' => [
@@ -235,6 +292,9 @@ return [
 		'en_US' => [
 			'turtle',
 		],
+		'ja_JP' => [
+			'亀',
+		],
 	],
 	'harpy' => [
 		'zh_CN' => [
@@ -245,6 +305,9 @@ return [
 		],
 		'en_US' => [
 			'harpy',
+		],
+		'ja_JP' => [
+			'ハーピー',
 		],
 	],
 	'horse' => [
@@ -257,6 +320,9 @@ return [
 		'en_US' => [
 			'horse',
 		],
+		'ja_JP' => [
+			'馬',
+		],
 	],
 	'bull' => [
 		'zh_CN' => [
@@ -267,6 +333,9 @@ return [
 		],
 		'en_US' => [
 			'bull',
+		],
+		'ja_JP' => [
+			'牛',
 		],
 	],
 	'rhinoceros' => [
@@ -279,6 +348,9 @@ return [
 		'en_US' => [
 			'rhinoceros',
 		],
+		'ja_JP' => [
+			'サイ',
+		],
 	],
 	'sheep' => [
 		'zh_CN' => [
@@ -289,6 +361,9 @@ return [
 		],
 		'en_US' => [
 			'sheep',
+		],
+		'ja_JP' => [
+			'羊',
 		],
 	],
 	'deer' => [
@@ -301,6 +376,9 @@ return [
 		'en_US' => [
 			'deer',
 		],
+		'ja_JP' => [
+			'鹿',
+		],
 	],
 	'fish' => [
 		'zh_CN' => [
@@ -311,6 +389,9 @@ return [
 		],
 		'en_US' => [
 			'fish',
+		],
+		'ja_JP' => [
+			'魚',
 		],
 	],
 	'shark' => [
@@ -325,6 +406,9 @@ return [
 		'en_US' => [
 			'shark',
 		],
+		'ja_JP' => [
+			'サメ',
+		],
 	],
 	'crocodile' => [
 		'zh_CN' => [
@@ -335,6 +419,9 @@ return [
 		],
 		'en_US' => [
 			'crocodile',
+		],
+		'ja_JP' => [
+			'ワニ',
 		],
 	],
 	'dolphin' => [
@@ -347,6 +434,9 @@ return [
 		'en_US' => [
 			'dolphin',
 		],
+		'ja_JP' => [
+			'イルカ',
+		],
 	],
 	'rubber' => [
 		'zh_CN' => [
@@ -357,6 +447,9 @@ return [
 		],
 		'en_US' => [
 			'rubber',
+		],
+		'ja_JP' => [
+			'ゴム',
 		],
 	],
 	'furry' => [
@@ -372,6 +465,10 @@ return [
 		],
 		'en_US' => [
 			'furry',
+		],
+		'ja_JP' => [
+			'獣人',
+			'獣族',
 		],
 	]
 ];
